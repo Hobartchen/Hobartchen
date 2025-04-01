@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hobartchen
 - 👀 I’m interested in cooking and traveling
-- 🌱 I’m currently learning node.js and react.js
-- 💞️ I’m looking to collaborate on web development and android development
+- 🌱 I’m currently learning .Net
+- 💞️ I’m looking to collaborate on mobile app development
 - 📫 Email: hckevin211@gmail.com
 - 📌 LinkedIn: https://www.linkedin.com/in/chenhe512/
 
